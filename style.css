@@ -23,6 +23,8 @@ a:hover {
 
 h5 {
     font-size: 20px;
+    letter-spacing: 3px;
+    line-height: 60px;
 }
 
 li {
@@ -119,20 +121,24 @@ nav button#menuButton {
     color: #1c1e53;
     font-size: 22px;
     margin-top: 20px;
+    letter-spacing: 2px;
+    line-height: 40px;
 }
 
 .main .left button {
-    margin-top: 40px;
+    margin-top: 45px;
     color: #fff;
     cursor: pointer;
     background-color: #5e3bee;
-    padding: 14px 24px;
+    padding: 20px 30px;
     border: 1px solid transparent;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 .main .right img {
     width: 400px;
+    margin: 55px;
+    border-radius: 40px;
 }
 
 .skills {
@@ -145,6 +151,7 @@ nav button#menuButton {
 .feedback h3 {
     font-size: 40px;
     margin-top: 20px;    
+    letter-spacing: 3px;
 }
 
 .skills .skill-items {
@@ -211,11 +218,14 @@ nav button#menuButton {
 
 .about .left img {
     width: 450px;
+    border-radius: 0 100px 0 100px
 }
 
 .about .right .about-me-text {
     font-size: 20px;
-    margin-top: 30px;
+    margin-top: 50px;
+    letter-spacing: 2px;
+    line-height: 40px;
 }
 
 .portfolio{
